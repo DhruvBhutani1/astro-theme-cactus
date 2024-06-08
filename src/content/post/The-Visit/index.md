@@ -4,6 +4,7 @@ description: "🎬 The Making of 'The Visit-I' 🚀: Scrapped Ideas, Future Plan
 publishDate: "06 June 2024"
 updatedDate: 08 June 2024
 tags: ["Game", "Roblox","Horror","Hobby","Story"]
+
 ---
 
 # Exciting News! 🌟
@@ -14,28 +15,36 @@ tags: ["Game", "Roblox","Horror","Hobby","Story"]
 
 #### 🛋️ Setting the Scene:
 It all started during the pandemic. Picture this: a 13-year-old, bored at home, looking for something fun to do. That's me. My friends and I were deeply immersed in playing games on Roblox. We explored various worlds, completed challenges, and had tons of fun.
+![idk](q.jpg)
 
 #### 💡 The Spark:
+
 One day, a thought crossed my mind: "What if I could create my own game?" At first, coding seemed like an alien language, boring and complicated. But with time on my hands and a desire to create something unique, I decided to give it a shot. I began learning Lua, the scripting language used in Roblox.
-
+![idk](w.jpg)
 #### 🧩 The Learning Curve:
+
 Learning Lua was like solving a puzzle. The more pieces I put together, the clearer the picture became. I started small, creating obstacle courses (obbies) and minigames. Each successful project fueled my excitement and confidence.
-
+![idk](e.jpg)
 #### 🎭 A Twist in the Tale:
+
 Just as I was getting into the groove of game development, my friends and I discovered story games on Roblox. We were hooked! Games like Pet Story, Break In, Break In 2, and the Airplane series captivated us. This new genre sparked a fresh wave of inspiration in me. I thought, "I can create a story game too!"
-
+![idk](r.jpg)
 #### 🚀 The Journey Begins:
+
 With renewed energy, I embarked on my biggest project yet. I designed my first few builds and managed to complete 50% of the first part of my story game. However, as the world returned to normal, school and other commitments took over, and I had to pause my work.
-
+![idk](t.jpg)
 #### 🔄 The Comeback:
+
 Fast forward to 2023. The passion for my game never really faded. With a new system and a fresh mindset, I decided to rebuild everything from scratch. The progress was amazing! But then came the stress of 11th grade, and once again, I had to put my project on hold.
-
+![idk](y.jpg)
 #### 🔥 The Final Push:
+
 Despite the challenges, I never gave up. Whenever I found free time, I dived back into development. Slowly but surely, my game started to take shape. With encouragement from friends and a burst of motivation, I pushed through and completed my game.
-
+![idk](u.jpg)
 #### 🏆 The Outcome:
-Now, here I am, almost done with my creation. Looking back, it's been an incredible journey. From a bored 13-year-old to a nearly finished game developer, I've learned so much and had a blast along the way.
 
+Now, here I am, almost done with my creation. Looking back, it's been an incredible journey. From a bored 13-year-old to a nearly finished game developer, I've learned so much and had a blast along the way.
+![idk](i.jpg)
 #### 🗣️ Interactive Element:
 
 - If you could create any game, what would it be?
